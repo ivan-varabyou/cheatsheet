@@ -1,0 +1,7 @@
+- ::before { content: "Привет, ";}
+- ::after { content: "Привет, ";}
+- ::first-letter
+- ::first-line
+- ::selection { background-color: #F498AD; } выделенный текст
+- input::placeholder { color: #2E9AFF; }
+- ::marker
